@@ -84,6 +84,11 @@ server_socket.close()
 
 <img width="445" height="97" alt="1A (CN)" src="https://github.com/user-attachments/assets/25024f5a-b424-4493-b776-ad7a8d52e871" />
 
+##
+
+<img width="495" height="149" alt="1A(CN)" src="https://github.com/user-attachments/assets/ec0f68e0-224c-4d18-81b8-fa3793233eac" />
+
+
 
 
 ## Result:
